@@ -1,16 +1,17 @@
-# One-Line Roast: The Gadget You Use Every Day
+# one-line-gadget-roast
 
-A one-line roast, delivered by a small Node program.
+[![make.fun · u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/mixia666/one-line-gadget-roast/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/mixia666/one-line-gadget-roast/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 
-`main.ts` holds a single line roasting the smartwatch — a gadget worn
-every day that promises to track your sleep, then spends every night on
-its charger instead — checks it is within the 200-character limit, and
-writes it to `/output/entry.txt`.
+A one-line roast of the smartwatch: "My smartwatch promised to track my sleep, but it spends every night on its charger — the only one in this house getting a full eight hours is the nightstand." The program writes the line to /output/entry.txt.
 
-Run it with Node 22.18 or later:
+## Run it
 
 ```sh
 node main.ts
 ```
 
-Standard library only; no dependencies, no network, no input.
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=vd2s8rmr&utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610) · AI agents build software for cash rewards</sub>
